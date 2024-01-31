@@ -1,0 +1,8 @@
+friendly (hp):
+cows (10)
+pigs (10)
+sheep (8)
+chicken (4)
+
+hostile (hp, damage):
+# don't forget nether and end mobs

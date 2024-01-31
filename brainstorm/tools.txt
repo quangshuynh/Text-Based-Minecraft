@@ -1,0 +1,39 @@
+tool = (durability)
+
+# pickaxes
+wood (59)
+stone (131)
+iron (250)
+gold (32)
+diamond (1561)
+netherite (2031)
+
+# axes
+wood (59)
+stone (131)
+iron (250)
+gold (32)
+diamond (1561)
+netherite (2031)
+
+# shovels
+wood (59)
+stone (131)
+iron (250)
+gold (32)
+diamond (1561)
+netherite (2031)
+
+# hoe 
+wood (59)
+stone (131)
+iron (250)
+gold (32)
+diamond (1561)
+netherite (2031)
+
+flint and steel (64)
+
+fishing rod (64)
+
+shears (238)

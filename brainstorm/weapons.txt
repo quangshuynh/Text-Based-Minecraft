@@ -1,0 +1,20 @@
+weapon = (damage, durability,)
+
+swordAttackSpeed = 1.6
+critcalAttack = 50% more damage
+
+wooden sword = (4, 60)
+stone sword = (5, 132)
+iron sword = (6, 251)
+gold sword = (4, 33)
+diamond sword = (7, 1562)
+netherite sword = (8, 2031)
+
+wood: 4
+stone: 5
+iron: 6
+gold: 4
+diamond: 7
+netherite: 8
+
+bowAttackSpeed

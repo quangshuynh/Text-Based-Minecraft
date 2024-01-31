@@ -1,0 +1,20 @@
+world coords
+
+biomes
+
+classic minecraft music
+
+create actions:
+  - random mob combat (zombies, skeletons, spiders)
+  - throwing eyes of ender
+
+make sure that inventory has 32 slots ( +4 slots for armor only)
+
+nether portal will be crafted (have to work around building it with no visuals)
+
+nether portal:
+  █ █ 
+█ ░ ░ █
+█ ░ ░ █
+█ ░ ░ █
+  █ █ 
